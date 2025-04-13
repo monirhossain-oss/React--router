@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Starter Pack",
+        "price": "$19/Month",
+        "description": "Perfect for beginners who want to start their fitness journey with essential access and light support.",
+        "features": [
+            "Access to gym equipment during weekdays (Monday to Friday)",
+            "1 complimentary personal training session per month",
+            "Free access to cardio zone (treadmill, cycling, cross trainer)",
+            "Locker facility with personal key"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Fitness Pro",
+        "price": "$49/Month",
+        "description": "Ideal for regular fitness enthusiasts who want complete access to equipment, group classes, and expert guidance.",
+        "features": [
+            "Unlimited gym access 7 days a week",
+            "5 personal training sessions with certified trainers",
+            "Access to group fitness classes like Yoga, Zumba, and HIIT",
+            "Personalized diet consultation with in-house nutritionist",
+            "Access to steam room and sauna for recovery"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Ultimate Beast Mode",
+        "price": "$99/Month",
+        "description": "Designed for athletes and bodybuilders who demand high-performance training, recovery, and nutrition facilities.",
+        "features": [
+            "24/7 unlimited gym access including VIP training hours",
+            "Daily one-on-one personal training with elite coaches",
+            "Advanced body composition analysis and performance tracking",
+            "Tailored meal plans based on fitness goals and body type"
+        ]
+    }
+]
